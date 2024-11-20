@@ -1,0 +1,3 @@
+{"version":"1.2.8","db_type":"idb","start_time":"2024-11-20T19:16:28.453Z","db_info":{"doc_count":1,"update_seq":1,"idb_attachment_format":"binary","db_name":"project-data","auto_compaction":false,"adapter":"idb"}}
+{"docs":[{"projectName":"worldbuilding","createdOnVersion":"0.1.14","_id":"projectSetup","_rev":"1-675bdf759fd39f897935aad5aca96106"}]}
+{"seq":1}
